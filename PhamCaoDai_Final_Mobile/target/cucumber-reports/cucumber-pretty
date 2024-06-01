@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.243" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="testing shoppe" name="Verify Home Screen" time="0.013">
+<failure/>
+<system-out><![CDATA[
+Given open shoppe app.......................................................undefined
+Given Click to Bat dau trai nghiem..........................................skipped
+When I click to Deny........................................................skipped
+Then The Home screen should displayed.......................................skipped
+And The menu footer should displayed........................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
